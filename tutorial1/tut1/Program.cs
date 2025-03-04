@@ -1,1 +1,1 @@
-﻿Console.WriteLine("How are you?");
+﻿Console.WriteLine("Bye");
