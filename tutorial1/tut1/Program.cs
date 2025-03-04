@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, PJATK!");
+﻿Console.WriteLine("How are you?");
